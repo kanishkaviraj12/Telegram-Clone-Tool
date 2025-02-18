@@ -13,6 +13,6 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python" /><br>
-    <img src="https://skillicons.dev/icons?i=telegram" />
+    <img src="https://skillicons.dev/icons?i=telegram"/>
     <img src="https://skillicons.dev/icons?i=aws" />
 </div>
