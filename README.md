@@ -13,6 +13,6 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python" /><br>
-    <img src="https://skillicons.dev/icons?i=telegram"/>
+       <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_Logo.svg" width="50" />
     <img src="https://skillicons.dev/icons?i=aws" />
 </div>
