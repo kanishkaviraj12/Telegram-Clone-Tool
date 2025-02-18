@@ -12,7 +12,6 @@
 ### Built With
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python" /><br>
-       <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_Logo.svg" width="50" />
+    <img src="https://skillicons.dev/icons?i=python" />
     <img src="https://skillicons.dev/icons?i=aws" />
 </div>
