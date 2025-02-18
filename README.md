@@ -7,8 +7,8 @@
 ## About The Project
 <p>Developed a Telegram channel and group cloning tool using Python, Telegram API, and AWS cloud computing. The application efficiently forwards both restricted and non-restricted content between channels and groups, ensuring seamless message replication and management.</p><br>
 
-This is project video link
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7297462153769324546" height="563" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+Check out the project video on LinkedIn:
+[![Project Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7297462153769324546)
 
 ### Built With
 
